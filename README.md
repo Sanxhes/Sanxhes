@@ -3,6 +3,7 @@
 **`Estudante de Engenharia de Software`**
 
 Me chamo Kauã Sanches, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Senac Lapa Tito, com o curso de técnico de informática. Atualmente, estou cursando Engenharia de Software na USJT, Sou apaixonado por tecnologia e estou evoluindo cada vez mais.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
